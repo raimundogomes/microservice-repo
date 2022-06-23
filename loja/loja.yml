@@ -1,7 +1,7 @@
 spring:
   datasource:
-    password: root
-    username: dataprev
+    password: dataprev
+    username: root
     url: 'jdbc:mysql://localhost:3307/loja'
   jpa:
     hibernate:
